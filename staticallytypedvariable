@@ -1,0 +1,12 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	variable :=10
+	variableString :="I am a string"
+	
+	fmt.Printf("%d%s",variable,variableString )
+}
